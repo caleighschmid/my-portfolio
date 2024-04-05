@@ -3,7 +3,7 @@
 
     let steps = [
         { name: "Wine Buddy", icon: "fa-solid fa-wine-glass", href: 'https://github.com/caleighschmid/wine-pairing-app'},
-        { name: "Poké-pedia", icon: "fa-solid fa-gamepad", href:  ''},
+        { name: "Poké-pedia", icon: "fa-solid fa-gamepad", href:  'https://github.com/caleighschmid/pokepedia'},
         { name: "Gym Buddy", icon: "fa-solid fa-dumbbell", href:  'https://github.com/caleighschmid/TE-Final-Capstone-GymBuddy'},
     ];
 
